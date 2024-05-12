@@ -1,1 +1,6 @@
-#EXTM3U #EXT-X-VERSION:3 #EXT-X-TARGETDURATION:11 #EXT-X-MEDIA-SEQUENCE:161 #EXTINF:9.867222, https://streaming.jeromelaliag.link/161_10.ts #EXTINF:9.200256, https://streaming.jeromelaliag.link/162_10.ts #EXTINF:10.633611, https://streaming.jeromelaliag.link/163_10.ts #EXTINF:10.267044, https://streaming.jeromelaliag.link/164_10.ts #EXTINF:9.800356, https://streaming.jeromelaliag.link/165_10.ts
+#EXTM3U #EXT-X-VERSION:3 #EXT-X-TARGETDURATION:11 
+#EXT-X-MEDIA-SEQUENCE:161 #EXTINF:9.867222, https://streaming.jeromelaliag.link/161_10.ts 
+#EXTINF:9.200256, https://streaming.jeromelaliag.link/162_10.ts 
+#EXTINF:10.633611, https://streaming.jeromelaliag.link/163_10.ts 
+#EXTINF:10.267044, https://streaming.jeromelaliag.link/164_10.ts 
+#EXTINF:9.800356, https://streaming.jeromelaliag.link/165_10.ts
